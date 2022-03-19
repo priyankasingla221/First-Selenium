@@ -34,7 +34,7 @@ public class AccountSignup {
 	}
 
 	@Test
-	public void sendkeysTest() {
+	public void verifyCustomerDetails() {
 
 		/** Webpage one **/
 
